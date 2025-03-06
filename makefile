@@ -1,6 +1,6 @@
 
 output: main.o 
-	gcc main.o -o watcher
+	gcc main.o -o parC
 	rm main.o
 
 main.o: 
