@@ -1,5 +1,4 @@
 
-
 typedef struct {
   *int alloc_stack; 
   int size;
